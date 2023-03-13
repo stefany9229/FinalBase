@@ -9,7 +9,6 @@ import org.springframework.cloud.openfeign.FeignClient;
 @SpringBootApplication
 @EnableDiscoveryClient
 @EnableFeignClients
-
 public class CatalogServiceApplication {
 
     public static void main(String[] args) {
